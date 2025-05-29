@@ -1,0 +1,11 @@
+ipykernel
+notebook
+db-dtypes==1.2.0
+google-cloud-bigquery==3.17.2
+google-cloud-storage
+pandas==2.1.1
+numpy==1.26.1
+pyarrow==14.0.0
+pandas-gbq
+fsspec
+gcsfs
